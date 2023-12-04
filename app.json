@@ -1,0 +1,33 @@
+{
+  "id": "a5708cf2-1916-4954-8056-5e2b58eda12c",
+  "name": "al-dependency-graph",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 69850,
+      "to": 69899
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.1",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "OnPrem"
+}
